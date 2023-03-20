@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: center;
+    background: #27272a;
+}

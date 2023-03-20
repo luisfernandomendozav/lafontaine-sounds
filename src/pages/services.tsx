@@ -24,9 +24,7 @@ const fetchJhon = async () => {
       </Head>
       <main className='container mx-auto'>
         <NavBar></NavBar>
-        <div className="bg-[url('../../public/lafontaine.jpeg')] w-full h-auto bg-cover bg-center bg-no-repeat">
-        <h1 className='grid h-screen place-items-center text-5xl text-gray-400 font-bold'>Lafointaine Sounds</h1>
-        </div>
+        <h1 className='text-3xl text-zinc-400 font-bold underline'>Services</h1>
       </main>
     </>
   )
