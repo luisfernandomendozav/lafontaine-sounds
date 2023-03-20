@@ -31,25 +31,25 @@ export default function NavBar() {
       className='text-white'
       href="/about"
     >
-      About
+      Biografia
     </Navbar.Link>
     <Navbar.Link 
-      href="/services"
+      href="/catalogo"
       className='text-white'
       >
-      Services
+      Catalogo
     </Navbar.Link>
     <Navbar.Link 
       href="/pricing"
       className='text-white'
       >
-      Pricing
+      Servicios
     </Navbar.Link>
     <Navbar.Link 
       href="/contact"
       className='text-white'
       >
-      Contact
+      Contacto
     </Navbar.Link>
   </Navbar.Collapse>
 </Navbar>
